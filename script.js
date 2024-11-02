@@ -8,7 +8,6 @@ if (field1 && field2){
     alert("Не всі поля заповнені")
 }
 
-
 const number1 = parseFloat(prompt('Введіть перше число'));
 const number2 = parseFloat(prompt('Введіть перше число'));
 
